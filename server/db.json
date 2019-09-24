@@ -1,0 +1,20 @@
+{
+    "result": [
+        {
+            "userName": "testmohit",
+            "companyCode": "INTLNUM",
+            "companyId": "1",
+            "companyName": "Intellinum INC",
+            "ouCode": null,
+            "iuCode": null,
+            "userEmail": "testmohit@test",
+            "userCountry": "2",
+            "userStateCounty": "2",
+            "userCity": "1",
+            "userAdminFlag": "N"
+        }
+    ],
+    "success": true,
+    "message": "validate success",
+    "status": 200
+}
